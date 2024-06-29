@@ -1,9 +1,9 @@
 mod broker;
-mod zookeeper;
 mod partition;
 mod storage;
+mod zookeeper;
 
-use crate::broker::broker::Broker;
+use broker::broker::Broker;
 
 fn main() {
     let broker = Broker::new();

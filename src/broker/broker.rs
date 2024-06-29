@@ -1,7 +1,7 @@
 use uuid::Uuid;
 
 pub struct Broker {
-    uuid: Uuid,
+   pub uuid: Uuid,
 }
 
 
