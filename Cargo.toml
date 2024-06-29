@@ -1,9 +1,13 @@
 [package]
 name = "brokust"
-version = "0.1.0"
+version = "0.0.0"
 edition = "2021"
+unsafe_code = "forbid"
+readme = "README.md"
+publish = false
 
 [dependencies]
 log = "0.4.22"
 tokio = "1.38.0"
+uuid = { version = "1.9.1", features = ["v4"] }
 zookeeper = "0.8.0"
