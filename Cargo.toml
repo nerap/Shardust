@@ -3,5 +3,4 @@
 members = [
   "packages/broker",
   "packages/zookeeper",
-  "packages/storage",
 ]
