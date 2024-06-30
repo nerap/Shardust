@@ -1,13 +1,7 @@
-[package]
-name = "brokust"
-version = "0.0.0"
-edition = "2021"
-unsafe_code = "forbid"
-readme = "README.md"
-publish = false
+[workspace]
 
-[dependencies]
-log = "0.4.22"
-tokio = { version = "1.38.0", features = ["full"] }
-uuid = { version = "1.9.1", features = ["v4"] }
-zookeeper = "0.8.0"
+members = [
+  "packages/broker",
+  "packages/zookeeper",
+  "packages/storage",
+]
