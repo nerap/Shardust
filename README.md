@@ -51,7 +51,7 @@ Classic message broker architure
 
 ### Hexagonnal 
 
-![image](https://github.com/nerap/brokust/assets/44852526/d48d9252-b3d9-40f5-9b48-277b3b3d9588)
+![image](https://github.com/nerap/brokust/assets/44852526/eb7e2130-7e81-47ab-bf90-fd9510e76be5)
 
 
 ### Broker
