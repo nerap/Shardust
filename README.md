@@ -48,11 +48,9 @@ Classic message broker architure
 
 ![image](https://github.com/nerap/Brokust/assets/44852526/ea18ba15-c8c5-4194-8c0d-b51838c4bc71)
 
-
 ### Hexagonnal 
 
-![image](https://github.com/nerap/brokust/assets/44852526/eb7e2130-7e81-47ab-bf90-fd9510e76be5)
-
+![image](https://github.com/nerap/brokust/assets/44852526/290979ba-f225-4279-8b15-cf8981cdcc13)
 
 ### Broker
 The broker is the central component responsible for managing topics, partitions, and handling client requests.
