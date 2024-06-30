@@ -44,7 +44,15 @@ To start using Brokust, you can run the broker and interact with it via the prov
 
 ## Architecture
 
+Classic message broker architure
+
 ![image](https://github.com/nerap/Brokust/assets/44852526/ea18ba15-c8c5-4194-8c0d-b51838c4bc71)
+
+
+### Hexagonnal 
+
+![image](https://github.com/nerap/brokust/assets/44852526/d48d9252-b3d9-40f5-9b48-277b3b3d9588)
+
 
 ### Broker
 The broker is the central component responsible for managing topics, partitions, and handling client requests.
