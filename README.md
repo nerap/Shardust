@@ -1,5 +1,7 @@
 # Brokust
 
+⚠️ CONCEPTION STAGE ⚠️
+
 Brokust is a message broker written in Rust, designed to be a lightweight and efficient alternative to Kafka. It features ZooKeeper-like coordination, segment storage, partition management, and more.
 
 ## Table of Contents
